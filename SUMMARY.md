@@ -1,10 +1,8 @@
 # Table of contents
 
-## CÒN ỐNG ĐỘNG MẠCH | PDA
+## SỞI | MEASLES
 
 * [BÀI GIẢNG VIDEO](README.md)
-* [SLIDE](con-ong-dong-mach-or-pda/slide.md)
-* [SOẠN PDA](con-ong-dong-mach-or-pda/soan-pda/README.md)
-  * [Term Infants Children And Adults](con-ong-dong-mach-or-pda/soan-pda/term-infants-children-and-adults.md)
-  * [Preterm Infants](con-ong-dong-mach-or-pda/soan-pda/preterm-infants.md)
-* [TÀI LIỆU](con-ong-dong-mach-or-pda/tai-lieu.md)
+* [SLIDE](soi-or-measles/slide.md)
+* [SOẠN MEASLES](soi-or-measles/soan-measles.md)
+* [TÀI LIỆU](soi-or-measles/tai-lieu.md)
