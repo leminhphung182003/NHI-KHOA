@@ -1,43 +1,47 @@
 ---
-description: Welcome to your team’s developer platform
+icon: youtube
+cover: .gitbook/assets/Gemini_Generated_Image_7z98n47z98n47z98.png
+coverY: -73.52748568686769
+coverHeight: 267
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
-# Developer Platform
+# BÀI GIẢNG VIDEO
 
-<h2 align="center">🩺 NHI KHOA CƠ BẢN</h2>
+{% tabs %}
+{% tab title="NĐ1 2024" %}
+{% embed url="https://www.youtube.com/watch?v=81rM2YH8SN0" %}
+{% endtab %}
 
-<p align="center">Nơi lưu trữ kiến thức nhi khoa cơ bản</p>
+{% tab title="SỞI-BIẾN CHỨNG(TS.Tuấn NĐ1)" %}
+{% embed url="https://www.youtube.com/watch?v=D4uonkxvEys" %}
 
-> Hệ thống hóa kiến thức từ sơ sinh đến hồi sức cấp cứu, cập nhật rõ ràng - dễ tra cứu - dễ học.
+{% embed url="https://www.youtube.com/watch?v=vfYUL3uhv4Q" %}
+{% endtab %}
 
-***
+{% tab title="Y3 ĐHQG VI SINH-NHIỄM" %}
+{% embed url="https://www.youtube.com/watch?v=TDuT9TG3TMQ" %}
+{% endtab %}
 
-### 🚀 MỤC TIÊU HỌC&#x20;
-
-{% columns %}
-{% column %}
-<h4 align="center"><mark style="color:red;">❤️ Tim mạch nhi</mark></h4>
-
-* [ ] Đại cương tim bẩm sinh
-* [ ] PDA
-* [ ] VSD
-* [ ] ASD
-* [ ] Tetralogy of Fallot
-* [ ] Suy tim trẻ em
-* [ ] Kawasaki
-{% endcolumn %}
-
-{% column %}
-<h4 align="center"><mark style="color:$primary;">🌬️ Hô hấp nhi</mark></h4>
-
-* [ ] Viêm phổi trẻ em
-* [ ] Hen phế quản
-* [ ] Viêm tiểu phế quản
-* [ ] Dị vật đường thở
-* [ ] Suy hô hấp
-{% endcolumn %}
-{% endcolumns %}
-
-***
-
-<h4 align="center">📚 Học tốt mỗi ngày - điều trị tốt mỗi ca bệnh</h4>
+{% tab title="NEJM" %}
+{% embed url="https://www.youtube.com/watch?v=PI6M680p9i0" %}
+{% endtab %}
+{% endtabs %}
