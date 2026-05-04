@@ -1,43 +1,45 @@
 ---
-description: Welcome to your team’s developer platform
+icon: youtube
+cover: .gitbook/assets/Gemini_Generated_Image_7z98n47z98n47z98.png
+coverY: -92.62555605705735
+coverHeight: 250
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
-# Developer Platform
+# BÀI GIẢNG VIDEO
 
-<h2 align="center">🩺 NHI KHOA CƠ BẢN</h2>
+{% tabs %}
+{% tab title="Y6 YDS" %}
+{% embed url="https://www.youtube.com/watch?v=JIPtwh2EK70" %}
+{% endtab %}
 
-<p align="center">Nơi lưu trữ kiến thức nhi khoa cơ bản</p>
+{% tab title="ĐHQG" %}
+{% embed url="https://www.youtube.com/watch?t=1s&v=pkOA8nMKcLY" %}
+{% endtab %}
 
-> Hệ thống hóa kiến thức từ sơ sinh đến hồi sức cấp cứu, cập nhật rõ ràng - dễ tra cứu - dễ học.
+{% tab title="SĐH NĐTP 2026" %}
+{% embed url="https://youtu.be/0TIPajhi3KE?si=4ABdq3ZOnYhO3O3s" %}
+{% endtab %}
 
-***
-
-### 🚀 MỤC TIÊU HỌC&#x20;
-
-{% columns %}
-{% column %}
-<h4 align="center"><mark style="color:red;">❤️ Tim mạch nhi</mark></h4>
-
-* [ ] Đại cương tim bẩm sinh
-* [ ] PDA
-* [ ] VSD
-* [ ] ASD
-* [ ] Tetralogy of Fallot
-* [ ] Suy tim trẻ em
-* [ ] Kawasaki
-{% endcolumn %}
-
-{% column %}
-<h4 align="center"><mark style="color:$primary;">🌬️ Hô hấp nhi</mark></h4>
-
-* [ ] Viêm phổi trẻ em
-* [ ] Hen phế quản
-* [ ] Viêm tiểu phế quản
-* [ ] Dị vật đường thở
-* [ ] Suy hô hấp
-{% endcolumn %}
-{% endcolumns %}
-
-***
-
-<h4 align="center">📚 Học tốt mỗi ngày - điều trị tốt mỗi ca bệnh</h4>
+{% tab title="YDS Elearning" %}
+{% embed url="https://www.youtube.com/watch?v=-r-hnpdYGX4" %}
+{% endtab %}
+{% endtabs %}
