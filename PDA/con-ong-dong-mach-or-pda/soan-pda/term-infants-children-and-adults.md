@@ -76,4 +76,4 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 
 
 
-[^1]: 
+[^1]: Tiếng thổi có thể chỉ xuất hiện ở thì tâm thu do chênh áp giữa động mạch chủ và động mạch phổi chưa rõ rệt trong thì tâm trương
