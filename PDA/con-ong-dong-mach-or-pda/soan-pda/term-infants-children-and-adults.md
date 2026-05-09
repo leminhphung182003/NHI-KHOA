@@ -58,14 +58,22 @@ Những bệnh nhân này thường được phát hiện **tình cờ** nhờ n
 
 * Hoạt động <mark style="color:red;">**vùng trước tim bình thường**</mark> và tiếng tim thứ nhất (**S1**) cùng tiếng tim thứ hai (**S2**) **bình thường**.
 * <mark style="color:green;">**Mạch**</mark> bình thường hoặc chỉ nảy nhẹ.
-*
+* **Khám hô hấp** cũng không ghi nhận bất thường, và không có bằng chứng tím.
 {% endhint %}
 
 {% hint style="info" %}
-Tiếng thổi
+<mark style="color:blue;">**Tiếng thổi**</mark>
+
+Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark style="color:orange;">**thay đổi**</mark> giữa **trẻ sơ sinh và bệnh nhân lớn tuổi hơn** do sự thay đổi trong chênh lệch tương đối giữa sức cản mạch máu phổi và sức cản mạch máu hệ thống:
+
+**+ Trẻ sơ sinh:** áp lực tâm thu động mạch chủ cao hơn áp lực tâm thu động mạch phổi, nhưng chênh lệch này có thể không hiện diện trong thì tâm trương\
+&#xNAN;**-->** [<mark style="background-color:yellow;">**Tiếng thổi**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">có thể</mark> <mark style="color:red;background-color:yellow;">**chỉ xuất hiện**</mark> <mark style="background-color:yellow;">ở thì</mark> <mark style="color:red;background-color:yellow;">**tâm thu**</mark>](#user-content-fn-1)[^1]<mark style="color:red;background-color:yellow;">**.**</mark>
 {% endhint %}
 
 [\[1\]: Doyle T, Kavanaugh-McHugh A. Clinical manifestations and diagnosis of patent ductus arteriosus in term infants, children, and adults. UpToDate. 2022. ](../tai-lieu.md#patent-ductus-arteriosus-in-preterm-infants-pathophysiology-clinical-manifestations-and-diagnosis)
 
 \[2]:
 
+
+
+[^1]: 
