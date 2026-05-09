@@ -65,7 +65,7 @@ Những bệnh nhân này thường được phát hiện **tình cờ** nhờ n
 Tiếng thổi
 {% endhint %}
 
-[\[1\]: Doyle T, Kavanaugh-McHugh A. Clinical manifestations and diagnosis of patent ductus arteriosus in term infants, children, and adults. UpToDate. 2022.](../tai-lieu.md#uptodate)&#x20;
+[\[1\]: Doyle T, Kavanaugh-McHugh A. Clinical manifestations and diagnosis of patent ductus arteriosus in term infants, children, and adults. UpToDate. 2022. ](../tai-lieu.md#patent-ductus-arteriosus-in-preterm-infants-pathophysiology-clinical-manifestations-and-diagnosis)
 
 \[2]:
 
