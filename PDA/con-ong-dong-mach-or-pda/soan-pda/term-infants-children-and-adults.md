@@ -31,9 +31,9 @@ Tỷ lệ còn ống động mạch cũng cao hơn ở trẻ sinh tại vùng ca
 
 ### <mark style="color:orange;">CLINICAL MANIFESTATIONS</mark>
 
-Biểu hiện lâm sàng của còn ống động mạch được quyết định bởi <mark style="color:red;">**mức độ shunt trái sang phải**</mark>, phụ thuộc vào kích thước và chiều dài của ống động mạch, cũng như sự chênh lệch giữa sức cản mạch phổi và sức cản mạch hệ thống.\[^1]
+Biểu hiện lâm sàng của còn ống động mạch được quyết định bởi <mark style="color:red;">**mức độ shunt trái sang phải**</mark>, phụ thuộc vào kích thước và chiều dài của ống động mạch, cũng như sự chênh lệch giữa sức cản mạch phổi và sức cản mạch hệ thống.\[1]
 
-<mark style="color:orange;">**Hậu quả huyết động**</mark> của còn ống động mạch có thể được phân loại theo mức độ shunt trái sang phải dựa trên <mark style="color:$primary;">**tỷ số lưu lượng máu phổi so với lưu lượng máu hệ thống (Qp:Qs).**</mark>\[^1]
+<mark style="color:orange;">**Hậu quả huyết động**</mark> của còn ống động mạch có thể được phân loại theo mức độ shunt trái sang phải dựa trên <mark style="color:$primary;">**tỷ số lưu lượng máu phổi so với lưu lượng máu hệ thống (Qp:Qs).**</mark>
 
 ```abap
 Small – Qp:Qs <1.5 to 1
@@ -61,8 +61,11 @@ Những bệnh nhân này thường được phát hiện **tình cờ** nhờ n
 *
 {% endhint %}
 
+{% hint style="info" %}
 Tiếng thổi
+{% endhint %}
 
-\[^1]: Doyle T, Kavanaugh-McHugh A. Clinical manifestations and diagnosis of patent ductus arteriosus in term infants, children, and adults. UpToDate. 2022.
+\[1]: Doyle T, Kavanaugh-McHugh A. Clinical manifestations and diagnosis of patent ductus arteriosus in term infants, children, and adults. UpToDate. 2022.
 
-\[^2]:
+\[2]:
+
