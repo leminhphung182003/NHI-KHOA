@@ -26,13 +26,21 @@ layout:
 
 # TÀI LIỆU
 
-#### <kbd><mark style="color:red;">**Uptodate**<mark style="color:red;"></kbd>
+### <kbd><mark style="color:red;">**Uptodate**<mark style="color:red;"></kbd>
+
+#### Patent Ductus Arteriosus In Preterm Infants Pathophysiology Clinical Manifestations And Diagnosis
 
 {% file src="../.gitbook/assets/Patent Ductus Arteriosus In Preterm Infants Pathophysiology Clinical Manifestations And Diagnosis.pdf" %}
 
+#### Management Of Patent Ductus Arteriosus In Term Infants Children And Adults
+
 {% file src="../.gitbook/assets/Management Of Patent Ductus Arteriosus In Term Infants Children And Adults.pdf" %}
 
+#### Patent Ductus Arteriosus In Preterm Infants Management
+
 {% file src="../.gitbook/assets/Patent Ductus Arteriosus In Preterm Infants Management.pdf" %}
+
+#### Clinical Manifestations And Diagnosis Of Patent Ductus Arteriosus In Term Infants Children And Adults
 
 {% file src="../.gitbook/assets/Clinical Manifestations And Diagnosis Of Patent Ductus Arteriosus In Term Infants Children And Adults.pdf" %}
 
