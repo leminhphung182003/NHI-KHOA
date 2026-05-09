@@ -74,13 +74,30 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 
 #### <mark style="color:violet;">Moderate patent ductus arteriosus</mark> (Moderate PDA: Qp:Qs từ 1,5-2,2:1)
 
-Ở những bệnh nhân này, luồng thông trái-phải mức độ trung bình làm tăng gánh thể tích lên <mark style="color:red;">**tâm nhĩ trái và tâm thất trái**</mark>, dẫn đến <mark style="color:blue;">**`giãn và rối loạn chức năng thất trái`**</mark>.
+Ở những bệnh nhân này, luồng thông trái-phải mức độ trung bình làm tăng gánh thể tích lên <mark style="color:red;">**tâm nhĩ trái và tâm thất trái**</mark>, dẫn đến <mark style="color:blue;">**`giãn và rối loạn chức năng thất trái`**</mark>.<sup>\[1]</sup>
 
-<mark style="color:$primary;">**Tiếng thổi liên tục điển hình**</mark> (thường độ 2 hoặc 3 và đôi khi độ 4) ở vùng dưới xương đòn trái, lớn hơn tiếng thổi gặp trong còn ống động mạch nhỏ, thường đi kèm với [<mark style="color:red;">**hiệu áp rộng**</mark>](#user-content-fn-3)[^3] và <mark style="color:red;">**các dấu hiệu quá tải thể tích thất trái**</mark> (như mỏm tim trái lệch vị trí).
+<mark style="color:$primary;">**Tiếng thổi liên tục điển hình**</mark> (thường độ 2 hoặc 3 và đôi khi độ 4) ở vùng dưới xương đòn trái, lớn hơn tiếng thổi gặp trong còn ống động mạch nhỏ, thường đi kèm với [<mark style="color:red;">**hiệu áp rộng**</mark>](#user-content-fn-3)[^3] và <mark style="color:red;">**các dấu hiệu quá tải thể tích thất trái**</mark> (như mỏm tim trái lệch vị trí).<sup>\[1]</sup>
 
 #### <mark style="color:violet;">Còn ống động mạch lớn</mark> (Large PDA: Qp:Qs >2,2:1)
 
+{% hint style="info" %}
+<mark style="color:blue;">**Triệu chứng**</mark>
 
+Ở trẻ nhũ nhi, còn ống động mạch lớn có thể biểu hiện các dấu hiệu suy tim, bao gồm chậm tăng trưởng, bú kém và nguy kịch hô hấp.
+
+Trẻ lớn hơn có thể biểu hiện khó thở hoặc dễ mệt.
+{% endhint %}
+
+{% hint style="info" %}
+<mark style="color:blue;">**Khám thực thể**</mark>**&#x20;(trước khi có tăng áp phổi nặng)**
+
+Ở bệnh nhân có luồng thông trái-phải lớn
+
+* Sờ vùng trước tim ghi nhận **mỏm tim thất trái&#x20;**<mark style="color:red;">**đập mạnh**</mark> và có <mark style="color:red;">**rung miu**</mark>
+* <mark style="color:red;">**Mạch nảy mạnh**</mark> với <mark style="color:pink;">**hiệu áp rộng**</mark> do máu thoát vào hệ tuần hoàn phổi.
+* Nghe tim thấy tiếng **S1 bình thường**, <mark style="color:red;">**tiếng S2 tách đôi**</mark> với thành phần phổi mạnh, có thể có tiếng S3 và tiếng rung tâm trương ở mỏm (do tăng lưu lượng máu qua van hai lá).
+* Có <mark style="color:red;">**tiếng thổi liên tục độ 4/6**</mark> nghe ở vùng dưới xương đòn trái.
+{% endhint %}
 
 [\[1\]: Doyle T, Kavanaugh-McHugh A. Clinical manifestations and diagnosis of patent ductus arteriosus in term infants, children, and adults. UpToDate. 2022. ](../tai-lieu.md#patent-ductus-arteriosus-in-preterm-infants-pathophysiology-clinical-manifestations-and-diagnosis)
 
