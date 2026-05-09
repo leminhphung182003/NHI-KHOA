@@ -41,7 +41,7 @@ Moderate − Qp:Qs between 1.5 and 2.2 to 1
 Large − Qp:Qs >2.2 to 1
 ```
 
-#### <mark style="color:violet;">Small patent ductus arteriosus (Small PDA:</mark> Qp:Qs <1,5:1<mark style="color:violet;">)</mark>
+#### <mark style="color:violet;">Small patent ductus arteriosus</mark> (Small PDA: Qp:Qs <1,5:1)
 
 {% hint style="info" %}
 <mark style="color:blue;">**Triệu chứng**</mark>
@@ -64,11 +64,23 @@ Những bệnh nhân này thường được phát hiện **tình cờ** nhờ n
 {% hint style="info" %}
 <mark style="color:blue;">**Tiếng thổi**</mark>
 
-Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark style="color:orange;">**thay đổi**</mark> giữa **trẻ sơ sinh và bệnh nhân lớn tuổi hơn** do sự thay đổi trong chênh lệch tương đối giữa sức cản mạch máu phổi và sức cản mạch máu hệ thống:
+Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark style="color:orange;">**thay đổi**</mark> giữa **trẻ sơ sinh và bệnh nhân lớn tuổi hơn** do sự thay đổi trong chênh lệch tương đối giữa sức cản mạch máu phổi và sức cản mạch máu hệ thống:<sup>\[1]</sup>
 
-**+ Trẻ sơ sinh:** áp lực tâm thu động mạch chủ cao hơn áp lực tâm thu động mạch phổi, nhưng chênh lệch này có thể không hiện diện trong thì tâm trương\
-&#xNAN;**-->** [<mark style="background-color:yellow;">**Tiếng thổi**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">có thể</mark> <mark style="color:red;background-color:yellow;">**chỉ xuất hiện**</mark> <mark style="background-color:yellow;">ở thì</mark> <mark style="color:red;background-color:yellow;">**tâm thu**</mark>](#user-content-fn-1)[^1]<mark style="color:red;background-color:yellow;">**.**</mark>
+<mark style="color:cyan;">**+**</mark> <mark style="color:cyan;">**Trẻ sơ sinh:**</mark> áp lực tâm thu động mạch chủ cao hơn áp lực tâm thu động mạch phổi, nhưng chênh lệch này có thể không hiện diện trong thì tâm trương\
+&#xNAN;**-->** [<mark style="color:red;background-color:yellow;">**Tiếng thổi**</mark> <mark style="background-color:yellow;">có thể</mark> <mark style="color:red;background-color:yellow;">**chỉ xuất hiện**</mark> <mark style="background-color:yellow;">ở thì</mark> <mark style="color:red;background-color:yellow;">**tâm thu**</mark>](#user-content-fn-1)[^1]
+
+<mark style="color:cyan;">**+ Sau giai đoạn sơ sinh:**</mark> [**Áp lực động mạch phổi giảm xuống**](#user-content-fn-2)[^2] sau giai đoạn sơ sinh. Kết quả là áp lực động mạch chủ cao hơn áp lực động mạch phổi trong <mark style="color:red;">**cả thì tâm thu lẫn tâm trương**</mark>, tạo ra dòng chảy liên tục qua ống động mạch và gây nên tiếng thổi liên tục điển hình ((tiếng thổi Gibson hay tiếng thổi máy). Tiếng thổi có <mark style="color:red;">**`cường độ độ 3/6 hoặc thấp hơn`**</mark> và **`nghe rõ nhất ở vùng dưới xương đòn trái`**. Cường độ tiếng thổi mạnh nhất ngay trước và sau tiếng tim thứ hai (S2) và không bị ảnh hưởng bởi tư thế.
 {% endhint %}
+
+#### <mark style="color:violet;">Moderate patent ductus arteriosus</mark> (Moderate PDA: Qp:Qs từ 1,5-2,2:1)
+
+Ở những bệnh nhân này, luồng thông trái-phải mức độ trung bình làm tăng gánh thể tích lên <mark style="color:red;">**tâm nhĩ trái và tâm thất trái**</mark>, dẫn đến <mark style="color:blue;">**`giãn và rối loạn chức năng thất trái`**</mark>.
+
+<mark style="color:$primary;">**Tiếng thổi liên tục điển hình**</mark> (thường độ 2 hoặc 3 và đôi khi độ 4) ở vùng dưới xương đòn trái, lớn hơn tiếng thổi gặp trong còn ống động mạch nhỏ, thường đi kèm với [<mark style="color:red;">**hiệu áp rộng**</mark>](#user-content-fn-3)[^3] và <mark style="color:red;">**các dấu hiệu quá tải thể tích thất trái**</mark> (như mỏm tim trái lệch vị trí).
+
+#### <mark style="color:violet;">Còn ống động mạch lớn</mark> (Large PDA: Qp:Qs >2,2:1)
+
+
 
 [\[1\]: Doyle T, Kavanaugh-McHugh A. Clinical manifestations and diagnosis of patent ductus arteriosus in term infants, children, and adults. UpToDate. 2022. ](../tai-lieu.md#patent-ductus-arteriosus-in-preterm-infants-pathophysiology-clinical-manifestations-and-diagnosis)
 
@@ -77,3 +89,7 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 
 
 [^1]: Tiếng thổi có thể chỉ xuất hiện ở thì tâm thu do chênh áp giữa động mạch chủ và động mạch phổi chưa rõ rệt trong thì tâm trương
+
+[^2]: 24 giờ sau sinh áp lực động mạch phổi giảm còn bằng ½ áp lực động mạch chủ, 4 - 8 tuần sau sinh giảm còn bằng ¼ áp lực động mạch chủ, nên trẻ < 2 tháng tuổi không đánh giá có cao áp phổi hay không.
+
+[^3]: Huyết áp tâm thu cao, huyết áp tâm trương thấp
