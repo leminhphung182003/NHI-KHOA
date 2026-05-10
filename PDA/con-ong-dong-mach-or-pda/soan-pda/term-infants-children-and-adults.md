@@ -113,7 +113,7 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 {% hint style="danger" %}
 #### <mark style="color:$danger;">**Biến chứng và diễn tiến muộn (Hội chứng Eisenmenger)**</mark>
 
-* [x] <mark style="color:yellow;">**Tiếng thổi:**</mark> Khi áp lực động mạch phổi tăng lên, thành phần tâm trương của tiếng thổi liên tục mờ dần và cuối cùng tiếng thổi liên tục biến mất, chỉ còn <mark style="color:$primary;">**`tiếng thổi tâm thu ngắn`**</mark>
+* [x] <mark style="color:yellow;">**Tiếng thổi:**</mark> Khi áp lực động mạch phổi tăng lên, thành phần tâm trương của tiếng thổi liên tục mờ dần và cuối cùng tiếng thổi liên tục biến mất, chỉ còn [<mark style="color:$primary;">**`tiếng thổi tâm thu ngắn`**</mark>](#user-content-fn-3)[^3]
 * [x] <mark style="color:cyan;">**Tăng áp phổi:**</mark> Theo thời gian, một PDA lớn không được điều trị sẽ dẫn đến <mark style="color:red;">**thay đổi mạch máu phổi**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**`không hồi phục`**</mark> và **đảo ngược** luồng thông thành <mark style="color:red;">**`phải-sang-trái`**</mark>
 * [x] <mark style="color:pink;">**Tím chuyên biệt (Differential cyanosis):**</mark> Đây là dấu hiệu đặc trưng của PDA có đảo chủ, trong đó tím và ngón tay dùi trống xuất hiện ở chi dưới rõ rệt hơn chi trên  .&#x20;
 
@@ -148,9 +148,46 @@ Chẩn đoán còn ống động mạch thường dựa trên các <mark style="
 <mark style="color:blue;">**Dòng chảy màu Doppler**</mark>
 
 **Dòng chảy ngược đặc trưng:** Doppler màu được dùng để bổ trợ cho hình ảnh 2D, cho thấy <mark style="color:red;">dòng màu ngược chiều</mark> từ động mạch chủ vào động mạch phổi.
+
+**Tính chất dòng chảy:**
+
+* Ở bệnh nhân có <mark style="color:cyan;">**áp lực động mạch phổi bình thường**</mark>, dòng chảy này có vận tốc cao, hỗn loạn và xuất hiện trong <mark style="color:red;">**cả thì tâm thu và tâm trương.**</mark>
+* Khi <mark style="color:cyan;">**sức cản mạch máu phổi tăng cao**</mark>, dòng ngược chiều này có thể chỉ quan sát thấy trong thì <mark style="color:red;">**tâm trương.**</mark>
+
+**Chẩn đoán phân biệt:** Việc xác định chính xác nguồn gốc của dòng ngược chiều vào động mạch phổi là cực kỳ quan trọng để tránh nhầm lẫn PDA với các luồng thông phế-chủ khác như tuần hoàn bàng hệ, rò động mạch vành hoặc cửa sổ phế chủ.
+{% endhint %}
+
+{% hint style="info" icon="wave-sine" %}
+<mark style="color:blue;">**Doppler xung và Doppler liên tục (Đánh giá huyết động)**</mark>
+
+* [x] <mark style="color:pink;">**Ước tính áp lực động mạch phổi**</mark>
+
+<mark style="color:purple;">**Vận tốc đỉnh**</mark>**&#x20;của dòng máu `qua ống động mạch`**, được đo bằng `Doppler xung` hoặc `Doppler liên tục`, có thể được chuyển đổi thành <mark style="color:red;">**chênh áp giữa động mạch chủ và động mạch phổi**</mark> bằng phương trình Bernoulli cải biên.
+
+<p align="center"><span class="math">Δ 𝑃 = 4v^2</span></p>
+
+\--> <mark style="color:red;">**Áp lực ĐMP tâm thu**</mark> = **Huyết áp tâm thu** (đo bằng băng quấn đo huyết áp) - Chênh áp tối đỉnh qua PDA ( $$4v^2$$)
+
+\*Vận tốc đỉnh thấp và chênh áp tương ứng thấp gợi ý áp lực động mạch phổi cao.
+
+* [x] **Các kiểu luồng thông**
+
+- **Luồng thông&#x20;**<mark style="color:red;">**`trái-sang-phải liên tục`**</mark>**:** Xuất hiện khi áp lực động mạch phổi thấp hơn áp lực hệ thống.
+- **Luồng thông&#x20;**<mark style="color:red;">**`hai chiều`**</mark>**:** Thường gặp ở trẻ có <mark style="color:orange;">**`tăng áp phổi nặng`**</mark>, với dòng <mark style="background-color:yellow;">phải sang trái ở đầu thì tâm thu</mark> và <mark style="background-color:yellow;">dòng trái sang phải ở thì tâm trương.</mark>
+- **Luồng thông&#x20;**<mark style="color:red;">**`phải-sang-trái thuần túy`**</mark>**:** Cho thấy áp lực động mạch phổi đã vượt quá áp lực hệ thống.
+{% endhint %}
+
+{% hint style="info" icon="square-m" %}
+<mark style="color:blue;">**Siêu âm tim M-mode**</mark>
+
+Mặc dù siêu âm tim M-mode có thể cho thấy các dấu hiệu gợi ý luồng thông trái-phải, nhưng phương pháp này không có giá trị chẩn đoán xác định còn ống động mạch.
+
+Tỷ lệ <mark style="color:red;">**đường kính tâm nhĩ trái trên đường kính động mạch chủ**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**`>1,5:1`**</mark> thường liên quan với luồng thông trái-phải có ý nghĩa.
 {% endhint %}
 
 </details>
+
+
 
 [\[1\]: Doyle T, Kavanaugh-McHugh A. Clinical manifestations and diagnosis of patent ductus arteriosus in term infants, children, and adults. UpToDate. 2022. ](../tai-lieu.md#patent-ductus-arteriosus-in-preterm-infants-pathophysiology-clinical-manifestations-and-diagnosis)
 
@@ -161,3 +198,5 @@ Chẩn đoán còn ống động mạch thường dựa trên các <mark style="
 [^1]: 24 giờ sau sinh áp lực động mạch phổi giảm còn bằng ½ áp lực động mạch chủ, 4 - 8 tuần sau sinh giảm còn bằng ¼ áp lực động mạch chủ, nên trẻ < 2 tháng tuổi không đánh giá có cao áp phổi hay không.
 
 [^2]: Huyết áp tâm thu cao, huyết áp tâm trương thấp
+
+[^3]: Áp lực PA ≈ Ao → Mất tiếng thổi qua ống động mạch. Nghe được tiếng thổi tống máu do giãn ĐMP. Tiếng thổi Graham Steell do hở van động mạch phổi trong bối cảnh PAH có âm sắc cao và dạng “thổi”.
