@@ -100,7 +100,7 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 {% endhint %}
 
 {% hint style="info" icon="stethoscope" %}
-#### <mark style="color:blue;">**Khám thực thể**</mark>**&#x20;**<mark style="color:pink;">**(trước khi có tăng áp phổi nặng)**</mark>
+#### <mark style="color:blue;">**Khám thực thể**</mark>**&#x20;**<mark style="color:purple;">**(trước khi có tăng áp phổi nặng)**</mark>
 
 Ở bệnh nhân có luồng thông trái-phải lớn
 
@@ -110,7 +110,15 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 * Có <mark style="color:red;">**tiếng thổi liên tục độ 4/6**</mark> nghe ở vùng dưới xương đòn trái.
 {% endhint %}
 
+{% hint style="danger" %}
+#### <mark style="color:$danger;">**Biến chứng và diễn tiến muộn (Hội chứng Eisenmenger)**</mark>
 
+* [x] <mark style="color:yellow;">**Tiếng thổi:**</mark> Khi áp lực động mạch phổi tăng lên, thành phần tâm trương của tiếng thổi liên tục mờ dần và cuối cùng tiếng thổi liên tục biến mất, chỉ còn <mark style="color:$primary;">**`tiếng thổi tâm thu ngắn`**</mark>
+* [x] <mark style="color:cyan;">**Tăng áp phổi:**</mark> Theo thời gian, một PDA lớn không được điều trị sẽ dẫn đến <mark style="color:red;">**thay đổi mạch máu phổi**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**`không hồi phục`**</mark> và **đảo ngược** luồng thông thành <mark style="color:red;">**`phải-sang-trái`**</mark>
+* [x] <mark style="color:pink;">**Tím chuyên biệt (Differential cyanosis):**</mark> Đây là dấu hiệu đặc trưng của PDA có đảo chủ, trong đó tím và ngón tay dùi trống xuất hiện ở chi dưới rõ rệt hơn chi trên  .&#x20;
+
+\-->>Lý do là vì ống động mạch thường <mark style="color:purple;">**đổ máu tĩnh mạch**</mark> vào động mạch chủ xuống ở <mark style="color:red;">**vị trí**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**`sau`**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**động mạch dưới đòn trái**</mark>
+{% endhint %}
 
 </details>
 
