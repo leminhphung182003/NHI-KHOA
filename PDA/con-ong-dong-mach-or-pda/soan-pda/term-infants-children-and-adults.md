@@ -39,18 +39,20 @@ Moderate − Qp:Qs between 1.5 and 2.2 to 1
 Large − Qp:Qs >2.2 to 1
 ```
 
-### <mark style="color:violet;">Còn ống động mạch nhỏ</mark> (Small PDA: Qp:Qs <1,5:1)
+<details>
 
-{% hint style="info" %}
-<mark style="color:blue;">**Triệu chứng**</mark>
+<summary><mark style="color:red;"><strong>Còn ống động mạch nhỏ (Small PDA: Qp:Qs &#x3C;1,5:1)</strong></mark></summary>
 
-Còn ống động mạch nhỏ (Qp:Qs <1,5:1) hạn chế dòng máu quá mức đi vào phổi có thể không được phát hiện, và bệnh nhân <mark style="color:red;">**có thể không có triệu chứng**</mark> nhận biết được.<sup>\[1]</sup>
+{% hint style="info" icon="person-circle-exclamation" %}
+#### <mark style="color:blue;">**Triệu chứng**</mark>
 
-Những bệnh nhân này thường được phát hiện **tình cờ** nhờ nghe thấy <mark style="color:red;">**tiếng thổi liên tục điển hình**</mark> trong một lần khám chăm sóc ban đầu định kỳ hoặc phát hiện còn ống động mạch qua <mark style="color:purple;">**các thăm dò chẩn đoán**</mark> (ví dụ: chụp cắt lớp vi tính hoặc siêu âm tim) được thực hiện vì **các bệnh lý khác**.<sup>\[1]</sup>
+Còn ống động mạch nhỏ (Qp:Qs <1,5:1) hạn chế dòng máu quá mức đi vào phổi có thể không được phát hiện, và bệnh nhân <mark style="color:red;">**có thể không có triệu chứng**</mark> nhận biết được<sup>\[1]</sup>
+
+Những bệnh nhân này thường được phát hiện **tình cờ** nhờ nghe thấy <mark style="color:red;">**tiếng thổi liên tục điển hình**</mark> trong một lần khám chăm sóc ban đầu định kỳ hoặc phát hiện còn ống động mạch qua <mark style="color:purple;">**các thăm dò chẩn đoán**</mark> (ví dụ: chụp cắt lớp vi tính hoặc siêu âm tim) được thực hiện vì **các bệnh lý khác**<sup>\[1]</sup>
 {% endhint %}
 
-{% hint style="info" %}
-<mark style="color:blue;">**Khám thực thể**</mark>
+{% hint style="info" icon="stethoscope" %}
+#### <mark style="color:blue;">**Khám thực thể**</mark>
 
 Ở bệnh nhân còn ống động mạch nhỏ, khám thực thể cho thấy<sup>\[1]</sup>
 
@@ -59,43 +61,60 @@ Những bệnh nhân này thường được phát hiện **tình cờ** nhờ n
 * **Khám hô hấp** cũng không ghi nhận bất thường, và không có bằng chứng tím.
 {% endhint %}
 
-{% hint style="info" %}
-<mark style="color:blue;">**Tiếng thổi**</mark>
+{% hint style="info" icon="ear-deaf" %}
+#### <mark style="color:blue;">**Tiếng thổi**</mark>
 
 Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark style="color:orange;">**thay đổi**</mark> giữa **trẻ sơ sinh và bệnh nhân lớn tuổi hơn** do sự thay đổi trong chênh lệch tương đối giữa sức cản mạch máu phổi và sức cản mạch máu hệ thống:<sup>\[1]</sup>
 
-<mark style="color:cyan;">**+**</mark> <mark style="color:cyan;">**Trẻ sơ sinh:**</mark> áp lực tâm thu động mạch chủ cao hơn áp lực tâm thu động mạch phổi, nhưng chênh lệch này có thể không hiện diện trong thì tâm trương\
+* [x] <mark style="color:cyan;">**Trẻ sơ sinh:**</mark>&#x20;
+
+Áp lực tâm thu động mạch chủ cao hơn áp lực tâm thu động mạch phổi, nhưng chênh lệch này có thể không hiện diện trong thì tâm trương\
 &#xNAN;**-->** [<mark style="color:red;background-color:yellow;">**Tiếng thổi**</mark> <mark style="background-color:yellow;">có thể</mark> <mark style="color:red;background-color:yellow;">**chỉ xuất hiện**</mark> <mark style="background-color:yellow;">ở thì</mark> <mark style="color:red;background-color:yellow;">**tâm thu**</mark>](#user-content-fn-1)[^1]
 
-<mark style="color:cyan;">**+ Sau giai đoạn sơ sinh:**</mark> [**Áp lực động mạch phổi giảm xuống**](#user-content-fn-2)[^2] sau giai đoạn sơ sinh. Kết quả là áp lực động mạch chủ cao hơn áp lực động mạch phổi trong <mark style="color:red;">**cả thì tâm thu lẫn tâm trương**</mark>, tạo ra dòng chảy liên tục qua ống động mạch và gây nên tiếng thổi liên tục điển hình ((tiếng thổi Gibson hay tiếng thổi máy). Tiếng thổi có <mark style="color:red;">**`cường độ độ 3/6 hoặc thấp hơn`**</mark> và **`nghe rõ nhất ở vùng dưới xương đòn trái`**. Cường độ tiếng thổi mạnh nhất ngay trước và sau tiếng tim thứ hai (S2) và không bị ảnh hưởng bởi tư thế.
+* [x] <mark style="color:cyan;">**Sau giai đoạn sơ sinh:**</mark>
+
+[**Áp lực động mạch phổi giảm xuống**](#user-content-fn-2)[^2] sau giai đoạn sơ sinh. Kết quả là áp lực động mạch chủ cao hơn áp lực động mạch phổi trong <mark style="color:red;">**cả thì tâm thu lẫn tâm trương**</mark>, tạo ra dòng chảy liên tục qua ống động mạch và gây nên tiếng thổi liên tục điển hình ((tiếng thổi Gibson hay tiếng thổi máy). Tiếng thổi có <mark style="color:red;">**`cường độ độ 3/6 hoặc thấp hơn`**</mark> và **`nghe rõ nhất ở vùng dưới xương đòn trái`**. Cường độ tiếng thổi mạnh nhất ngay trước và sau tiếng tim thứ hai (S2) và không bị ảnh hưởng bởi tư thế.
 {% endhint %}
 
-### <mark style="color:violet;">Còn ống động mạch trung bình</mark> (Moderate PDA: Qp:Qs từ 1,5-2,2:1)
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Còn ống động mạch trung bình (Moderate PDA: Qp:Qs từ 1,5-2,2:1)</strong></mark></summary>
 
 Ở những bệnh nhân này, luồng thông trái-phải mức độ trung bình làm tăng gánh thể tích lên <mark style="color:red;">**tâm nhĩ trái và tâm thất trái**</mark>, dẫn đến <mark style="color:blue;">**`giãn và rối loạn chức năng thất trái`**</mark>.<sup>\[1]</sup>
 
-<mark style="color:$primary;">**Tiếng thổi liên tục điển hình**</mark> (thường độ 2 hoặc 3 và đôi khi độ 4) ở vùng dưới xương đòn trái, lớn hơn tiếng thổi gặp trong còn ống động mạch nhỏ, thường đi kèm với [<mark style="color:red;">**hiệu áp rộng**</mark>](#user-content-fn-3)[^3] và <mark style="color:red;">**các dấu hiệu quá tải thể tích thất trái**</mark> (như mỏm tim trái lệch vị trí).<sup>\[1]</sup>
+<mark style="color:$primary;">**Tiếng thổi liên tục điển hình**</mark> (thường <mark style="background-color:yellow;">**độ 2 hoặc 3**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">và đôi khi độ 4</mark>) ở vùng dưới xương đòn trái, lớn hơn tiếng thổi gặp trong còn ống động mạch nhỏ, thường đi kèm với [<mark style="color:red;">**hiệu áp rộng**</mark>](#user-content-fn-3)[^3] và <mark style="color:red;">**các dấu hiệu quá tải thể tích thất trái**</mark> (như mỏm tim trái lệch vị trí).<sup>\[1]</sup>
 
-### <mark style="color:violet;">Còn ống động mạch lớn</mark> (Large PDA: Qp:Qs >2,2:1)
+</details>
 
-{% hint style="info" %}
-<mark style="color:blue;">**Triệu chứng**</mark>
+<details>
 
-Ở trẻ nhũ nhi, còn ống động mạch lớn có thể biểu hiện các dấu hiệu suy tim, bao gồm chậm tăng trưởng, bú kém và nguy kịch hô hấp.
+<summary><mark style="color:red;"><strong>Còn ống động mạch lớn (Large PDA: Qp:Qs >2,2:1)</strong></mark></summary>
 
-Trẻ lớn hơn có thể biểu hiện khó thở hoặc dễ mệt.
+{% hint style="info" icon="person-circle-exclamation" %}
+#### <mark style="color:blue;">**Triệu chứng**</mark>
+
+* [x] **Ở trẻ nhũ nhi**, còn ống động mạch lớn có thể biểu hiện các <mark style="color:red;">**dấu hiệu suy tim**</mark>, bao gồm <mark style="color:purple;">chậm tăng trưởng, bú kém và nguy kịch hô hấp</mark>.
+* [x] **Trẻ lớn hơn** có thể biểu hiện <mark style="color:red;">**khó thở**</mark>**&#x20;hoặc&#x20;**<mark style="color:red;">**dễ mệt**</mark>.
 {% endhint %}
 
-{% hint style="info" %}
-<mark style="color:blue;">**Khám thực thể**</mark>**&#x20;(trước khi có tăng áp phổi nặng)**
+{% hint style="info" icon="stethoscope" %}
+#### <mark style="color:blue;">**Khám thực thể**</mark>**&#x20;**<mark style="color:pink;">**(trước khi có tăng áp phổi nặng)**</mark>
 
 Ở bệnh nhân có luồng thông trái-phải lớn
 
 * Sờ vùng trước tim ghi nhận **mỏm tim thất trái&#x20;**<mark style="color:red;">**đập mạnh**</mark> và có <mark style="color:red;">**rung miu**</mark>
 * <mark style="color:red;">**Mạch nảy mạnh**</mark> với <mark style="color:pink;">**hiệu áp rộng**</mark> do máu thoát vào hệ tuần hoàn phổi.
-* Nghe tim thấy tiếng **S1 bình thường**, <mark style="color:red;">**tiếng S2 tách đôi**</mark> với thành phần phổi mạnh, có thể có tiếng S3 và tiếng rung tâm trương ở mỏm (do tăng lưu lượng máu qua van hai lá).
+* Nghe tim thấy tiếng **S1 bình thường**, <mark style="color:$success;">**tiếng S2 tách đôi**</mark> với thành phần phổi mạnh, có thể có tiếng S3 và tiếng rung tâm trương ở mỏm (do tăng lưu lượng máu qua van hai lá).
 * Có <mark style="color:red;">**tiếng thổi liên tục độ 4/6**</mark> nghe ở vùng dưới xương đòn trái.
 {% endhint %}
+
+
+
+</details>
+
+
 
 
 
