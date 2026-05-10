@@ -26,6 +26,10 @@ layout:
 
 # BÀI GIẢNG VIDEO
 
+{% stepper %}
+{% step %}
+### **LÝ THUYẾT**
+
 {% tabs %}
 {% tab title="Y6 YDS" %}
 {% embed url="https://www.youtube.com/watch?v=JIPtwh2EK70" %}
@@ -43,3 +47,19 @@ layout:
 {% embed url="https://www.youtube.com/watch?v=-r-hnpdYGX4" %}
 {% endtab %}
 {% endtabs %}
+{% endstep %}
+
+{% step %}
+### CBL
+
+{% tabs %}
+{% tab title="CBL thầy Tưởng" %}
+{% embed url="https://www.youtube.com/watch?list=PLKf4mZ1AgTi-0Hg4k1JUlQSnP1DPhErDz&v=Vlr2OyHEDXg" %}
+{% endtab %}
+
+{% tab title="Tab 2" %}
+
+{% endtab %}
+{% endtabs %}
+{% endstep %}
+{% endstepper %}
