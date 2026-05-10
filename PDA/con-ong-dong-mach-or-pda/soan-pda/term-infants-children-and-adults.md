@@ -20,28 +20,26 @@ layout:
 
 # Term Infants Children And Adults
 
-## <mark style="color:orange;">PDA in Term Infants, Children, and Adults</mark>
-
-### <mark style="color:orange;">**EPIDEMIOLOGY**</mark>
+## <mark style="color:orange;">**Epidemiology**</mark>
 
 Tỷ lệ mắc — tỷ lệ được báo cáo của còn ống động mạch đơn độc ở <mark style="color:$danger;">trẻ đủ tháng</mark> dao động từ <mark style="background-color:$warning;">3 đến 8 trường hợp trên 10.000 trẻ sinh sống</mark>.<sup>\[1]</sup>
 
 Còn ống động mạch gặp <mark style="background-color:violet;">**`ưu thế ở nữ`**</mark>, với  <mark style="background-color:yellow;">**`tỷ lệ nữ : nam là 2:1`**</mark> trong hầu hết các loạt ca ở trẻ đủ tháng. <sup>\[1]</sup>\
 Tỷ lệ còn ống động mạch cũng cao hơn ở trẻ sinh tại vùng cao so với trẻ sinh ở mực nước biển, và ở trẻ mắc rubella bẩm sinh. Một trong những <mark style="color:red;">**yếu tố nguy cơ quan trọng nhất**</mark> của <mark style="color:$primary;">còn ống động mạch là</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">**sinh non**</mark><mark style="color:$primary;">.</mark><sup>\[1]</sup>
 
-### <mark style="color:orange;">CLINICAL MANIFESTATIONS</mark>
+## <mark style="color:orange;">Clinical Manifestations</mark>
 
 Biểu hiện lâm sàng của còn ống động mạch được quyết định bởi <mark style="color:red;">**mức độ shunt trái sang phải**</mark>, phụ thuộc vào kích thước và chiều dài của ống động mạch, cũng như sự chênh lệch giữa sức cản mạch phổi và sức cản mạch hệ thống.<sup>\[1]</sup>
 
 <mark style="color:orange;">**Hậu quả huyết động**</mark> của còn ống động mạch có thể được phân loại theo mức độ shunt trái sang phải dựa trên <mark style="color:$primary;">**tỷ số lưu lượng máu phổi so với lưu lượng máu hệ thống (Qp:Qs).**</mark><sup>\[1]</sup>
 
-```abap
+```apl
 Small – Qp:Qs <1.5 to 1
 Moderate − Qp:Qs between 1.5 and 2.2 to 1
 Large − Qp:Qs >2.2 to 1
 ```
 
-#### <mark style="color:violet;">Small patent ductus arteriosus</mark> (Small PDA: Qp:Qs <1,5:1)
+### <mark style="color:violet;">Còn ống động mạch nhỏ</mark> (Small PDA: Qp:Qs <1,5:1)
 
 {% hint style="info" %}
 <mark style="color:blue;">**Triệu chứng**</mark>
@@ -72,13 +70,13 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 <mark style="color:cyan;">**+ Sau giai đoạn sơ sinh:**</mark> [**Áp lực động mạch phổi giảm xuống**](#user-content-fn-2)[^2] sau giai đoạn sơ sinh. Kết quả là áp lực động mạch chủ cao hơn áp lực động mạch phổi trong <mark style="color:red;">**cả thì tâm thu lẫn tâm trương**</mark>, tạo ra dòng chảy liên tục qua ống động mạch và gây nên tiếng thổi liên tục điển hình ((tiếng thổi Gibson hay tiếng thổi máy). Tiếng thổi có <mark style="color:red;">**`cường độ độ 3/6 hoặc thấp hơn`**</mark> và **`nghe rõ nhất ở vùng dưới xương đòn trái`**. Cường độ tiếng thổi mạnh nhất ngay trước và sau tiếng tim thứ hai (S2) và không bị ảnh hưởng bởi tư thế.
 {% endhint %}
 
-#### <mark style="color:violet;">Moderate patent ductus arteriosus</mark> (Moderate PDA: Qp:Qs từ 1,5-2,2:1)
+### <mark style="color:violet;">Còn ống động mạch trung bình</mark> (Moderate PDA: Qp:Qs từ 1,5-2,2:1)
 
 Ở những bệnh nhân này, luồng thông trái-phải mức độ trung bình làm tăng gánh thể tích lên <mark style="color:red;">**tâm nhĩ trái và tâm thất trái**</mark>, dẫn đến <mark style="color:blue;">**`giãn và rối loạn chức năng thất trái`**</mark>.<sup>\[1]</sup>
 
 <mark style="color:$primary;">**Tiếng thổi liên tục điển hình**</mark> (thường độ 2 hoặc 3 và đôi khi độ 4) ở vùng dưới xương đòn trái, lớn hơn tiếng thổi gặp trong còn ống động mạch nhỏ, thường đi kèm với [<mark style="color:red;">**hiệu áp rộng**</mark>](#user-content-fn-3)[^3] và <mark style="color:red;">**các dấu hiệu quá tải thể tích thất trái**</mark> (như mỏm tim trái lệch vị trí).<sup>\[1]</sup>
 
-#### <mark style="color:violet;">Còn ống động mạch lớn</mark> (Large PDA: Qp:Qs >2,2:1)
+### <mark style="color:violet;">Còn ống động mạch lớn</mark> (Large PDA: Qp:Qs >2,2:1)
 
 {% hint style="info" %}
 <mark style="color:blue;">**Triệu chứng**</mark>
@@ -98,6 +96,8 @@ Trẻ lớn hơn có thể biểu hiện khó thở hoặc dễ mệt.
 * Nghe tim thấy tiếng **S1 bình thường**, <mark style="color:red;">**tiếng S2 tách đôi**</mark> với thành phần phổi mạnh, có thể có tiếng S3 và tiếng rung tâm trương ở mỏm (do tăng lưu lượng máu qua van hai lá).
 * Có <mark style="color:red;">**tiếng thổi liên tục độ 4/6**</mark> nghe ở vùng dưới xương đòn trái.
 {% endhint %}
+
+
 
 [\[1\]: Doyle T, Kavanaugh-McHugh A. Clinical manifestations and diagnosis of patent ductus arteriosus in term infants, children, and adults. UpToDate. 2022. ](../tai-lieu.md#patent-ductus-arteriosus-in-preterm-infants-pathophysiology-clinical-manifestations-and-diagnosis)
 
