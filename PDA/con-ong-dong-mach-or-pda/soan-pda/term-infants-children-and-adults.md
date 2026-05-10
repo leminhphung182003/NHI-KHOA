@@ -69,11 +69,11 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 * [x] <mark style="color:cyan;">**Trẻ sơ sinh:**</mark>&#x20;
 
 Áp lực tâm thu động mạch chủ cao hơn áp lực tâm thu động mạch phổi, nhưng chênh lệch này có thể không hiện diện trong thì tâm trương\
-&#xNAN;**-->** [<mark style="color:red;background-color:yellow;">**Tiếng thổi**</mark> <mark style="background-color:yellow;">có thể</mark> <mark style="color:red;background-color:yellow;">**chỉ xuất hiện**</mark> <mark style="background-color:yellow;">ở thì</mark> <mark style="color:red;background-color:yellow;">**tâm thu**</mark>](#user-content-fn-1)[^1]
+&#xNAN;**--> &#x20;**<mark style="color:red;background-color:yellow;">**Tiếng thổi**</mark> <mark style="background-color:yellow;">có thể</mark> <mark style="color:red;background-color:yellow;">**chỉ xuất hiện**</mark> <mark style="background-color:yellow;">ở thì</mark> <mark style="color:red;background-color:yellow;">**tâm thu**</mark>&#x20;
 
 * [x] <mark style="color:cyan;">**Sau giai đoạn sơ sinh:**</mark>
 
-[**Áp lực động mạch phổi giảm xuống**](#user-content-fn-2)[^2] sau giai đoạn sơ sinh. Kết quả là áp lực động mạch chủ cao hơn áp lực động mạch phổi trong <mark style="color:red;">**cả thì tâm thu lẫn tâm trương**</mark>, tạo ra dòng chảy liên tục qua ống động mạch và gây nên tiếng thổi liên tục điển hình ((tiếng thổi Gibson hay tiếng thổi máy). Tiếng thổi có <mark style="color:red;">**`cường độ độ 3/6 hoặc thấp hơn`**</mark> và **`nghe rõ nhất ở vùng dưới xương đòn trái`**. Cường độ tiếng thổi mạnh nhất ngay trước và sau tiếng tim thứ hai (S2) và không bị ảnh hưởng bởi tư thế.
+[**Áp lực động mạch phổi giảm xuống**](#user-content-fn-1)[^1] sau giai đoạn sơ sinh. Kết quả là áp lực động mạch chủ cao hơn áp lực động mạch phổi trong <mark style="color:red;">**cả thì tâm thu lẫn tâm trương**</mark>, tạo ra dòng chảy liên tục qua ống động mạch và gây nên tiếng thổi liên tục điển hình ((tiếng thổi Gibson hay tiếng thổi máy). Tiếng thổi có <mark style="color:red;">**`cường độ độ 3/6 hoặc thấp hơn`**</mark> và **`nghe rõ nhất ở vùng dưới xương đòn trái`**. Cường độ tiếng thổi mạnh nhất ngay trước và sau tiếng tim thứ hai (S2) và không bị ảnh hưởng bởi tư thế.
 {% endhint %}
 
 </details>
@@ -84,7 +84,7 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 
 Ở những bệnh nhân này, luồng thông trái-phải mức độ trung bình làm tăng gánh thể tích lên <mark style="color:red;">**tâm nhĩ trái và tâm thất trái**</mark>, dẫn đến <mark style="color:blue;">**`giãn và rối loạn chức năng thất trái`**</mark>.<sup>\[1]</sup>
 
-<mark style="color:$primary;">**Tiếng thổi liên tục điển hình**</mark> (thường <mark style="background-color:yellow;">**độ 2 hoặc 3**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">và đôi khi độ 4</mark>) ở vùng dưới xương đòn trái, lớn hơn tiếng thổi gặp trong còn ống động mạch nhỏ, thường đi kèm với [<mark style="color:red;">**hiệu áp rộng**</mark>](#user-content-fn-3)[^3] và <mark style="color:red;">**các dấu hiệu quá tải thể tích thất trái**</mark> (như mỏm tim trái lệch vị trí).<sup>\[1]</sup>
+<mark style="color:$primary;">**Tiếng thổi liên tục điển hình**</mark> (thường <mark style="background-color:yellow;">**độ 2 hoặc 3**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">và đôi khi độ 4</mark>) ở vùng dưới xương đòn trái, lớn hơn tiếng thổi gặp trong còn ống động mạch nhỏ, thường đi kèm với [<mark style="color:red;">**hiệu áp rộng**</mark>](#user-content-fn-2)[^2] và <mark style="color:red;">**các dấu hiệu quá tải thể tích thất trái**</mark> (như mỏm tim trái lệch vị trí).<sup>\[1]</sup>
 
 </details>
 
@@ -95,14 +95,14 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 {% hint style="info" icon="person-circle-exclamation" %}
 #### <mark style="color:blue;">**Triệu chứng**</mark>
 
-* [x] **Ở trẻ nhũ nhi**, còn ống động mạch lớn có thể biểu hiện các <mark style="color:red;">**dấu hiệu suy tim**</mark>, bao gồm <mark style="color:purple;">chậm tăng trưởng, bú kém và nguy kịch hô hấp</mark>.
-* [x] **Trẻ lớn hơn** có thể biểu hiện <mark style="color:red;">**khó thở**</mark>**&#x20;hoặc&#x20;**<mark style="color:red;">**dễ mệt**</mark>.
+* [x] **Ở trẻ nhũ nhi**, còn ống động mạch lớn có thể biểu hiện các <mark style="color:red;">**dấu hiệu suy tim**</mark>, bao gồm <mark style="color:purple;">chậm tăng trưởng, bú kém và nguy kịch hô hấp</mark>.<sup>\[1]</sup>
+* [x] **Trẻ lớn hơn** có thể biểu hiện <mark style="color:red;">**khó thở**</mark>**&#x20;hoặc&#x20;**<mark style="color:red;">**dễ mệt**</mark>.<sup>\[1]</sup>
 {% endhint %}
 
 {% hint style="info" icon="stethoscope" %}
 #### <mark style="color:blue;">**Khám thực thể**</mark>**&#x20;**<mark style="color:purple;">**(trước khi có tăng áp phổi nặng)**</mark>
 
-Ở bệnh nhân có luồng thông trái-phải lớn
+Ở bệnh nhân có luồng thông trái-phải lớn<sup>\[1]</sup>
 
 * Sờ vùng trước tim ghi nhận **mỏm tim thất trái&#x20;**<mark style="color:red;">**đập mạnh**</mark> và có <mark style="color:red;">**rung miu**</mark>
 * <mark style="color:red;">**Mạch nảy mạnh**</mark> với <mark style="color:pink;">**hiệu áp rộng**</mark> do máu thoát vào hệ tuần hoàn phổi.
@@ -117,37 +117,37 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 * [x] <mark style="color:cyan;">**Tăng áp phổi:**</mark> Theo thời gian, một PDA lớn không được điều trị sẽ dẫn đến <mark style="color:red;">**thay đổi mạch máu phổi**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**`không hồi phục`**</mark> và **đảo ngược** luồng thông thành <mark style="color:red;">**`phải-sang-trái`**</mark>
 * [x] <mark style="color:pink;">**Tím chuyên biệt (Differential cyanosis):**</mark> Đây là dấu hiệu đặc trưng của PDA có đảo chủ, trong đó tím và ngón tay dùi trống xuất hiện ở chi dưới rõ rệt hơn chi trên  .&#x20;
 
-\-->>Lý do là vì ống động mạch thường <mark style="color:purple;">**đổ máu tĩnh mạch**</mark> vào động mạch chủ xuống ở <mark style="color:red;">**vị trí**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**`sau`**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**động mạch dưới đòn trái**</mark>
+\-->Lý do là vì ống động mạch thường <mark style="color:purple;">**đổ máu tĩnh mạch**</mark> vào động mạch chủ xuống ở <mark style="color:red;">**vị trí**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**`sau`**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**động mạch dưới đòn trái**</mark>
 {% endhint %}
 
 </details>
 
 ## <mark style="color:red;">Diagnosis</mark>
 
-Chẩn đoán còn ống động mạch thường dựa trên các <mark style="color:cyan;">**đặc điểm lâm sàng điển hình**</mark> và thường được <mark style="color:green;">**xác nhận bằng siêu âm tim**</mark> (echocardiography).
+Chẩn đoán còn ống động mạch thường dựa trên các <mark style="color:cyan;">**đặc điểm lâm sàng điển hình**</mark> và thường được <mark style="color:green;">**xác nhận bằng siêu âm tim**</mark> (echocardiography).<sup>\[1]</sup>
 
-**X-quang ngực** (chest radiograph) và **điện tâm đồ** (electrocardiogram) có thể hữu ích nhưng có độ nhạy và độ đặc hiệu <mark style="color:orange;">**`thấp hơn`**</mark> siêu âm tim.
+**X-quang ngực** (chest radiograph) và **điện tâm đồ** (electrocardiogram) có thể hữu ích nhưng có độ nhạy và độ đặc hiệu <mark style="color:orange;">**`thấp hơn`**</mark> siêu âm tim.<sup>\[1]</sup>
 
-**Thông tim** (cardiac catheterization) và **chụp mạch** (angiography) thường chỉ cần thiết khi cân nhắc <mark style="color:yellow;">**điều trị can thiệp qua da**</mark> hoặc trong bối cảnh **bệnh tim bẩm sinh phức tạp hơn**.
+**Thông tim** (cardiac catheterization) và **chụp mạch** (angiography) thường chỉ cần thiết khi cân nhắc <mark style="color:yellow;">**điều trị can thiệp qua da**</mark> hoặc trong bối cảnh **bệnh tim bẩm sinh phức tạp hơn**.<sup>\[1]</sup>
 
 <details>
 
 <summary><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:red;"><strong>SIÊU ÂM TIM</strong></mark></summary>
 
-Đánh giá siêu âm tim đầy đủ đối với còn ống động mạch bao gồm <mark style="color:$danger;">**`xác nhận giải phẫu`**</mark> bằng hình ảnh hai chiều và <mark style="color:$danger;">**`đánh giá huyết động học`**</mark> bằng siêu âm Doppler tim, bao gồm mức độ luồng thông và áp lực động mạch phổi.
+Đánh giá siêu âm tim đầy đủ đối với còn ống động mạch bao gồm <mark style="color:$danger;">**`xác nhận giải phẫu`**</mark> bằng hình ảnh hai chiều và <mark style="color:$danger;">**`đánh giá huyết động học`**</mark> bằng siêu âm Doppler tim, bao gồm mức độ luồng thông và áp lực động mạch phổi.<sup>\[1]</sup>
 
 {% hint style="info" icon="transducer" %}
 <mark style="color:blue;">**Siêu âm 2D (Đánh giá giải phẫu)**</mark>
 
-**Xác định trực tiếp:** Siêu âm 2D giúp xác định <mark style="color:red;">trực tiếp</mark> sự hiện diện của <mark style="color:red;">**ống động mạch**</mark>, cung cấp thông tin về đường kính, chiều dài và hình dạng của ống.
+**Xác định trực tiếp:** Siêu âm 2D giúp xác định <mark style="color:red;">trực tiếp</mark> sự hiện diện của <mark style="color:red;">**ống động mạch**</mark>, cung cấp thông tin về đường kính, chiều dài và hình dạng của ống.<sup>\[1]</sup>
 
-**Đánh giá gián tiếp:** Siêu âm 2D cho thấy tình trạng giãn nhĩ trái và thất trái khi có luồng thông trái-sang-phải lớn gây quá tải thể tích cho các buồng tim trái.
+**Đánh giá gián tiếp:** Siêu âm 2D cho thấy tình trạng giãn nhĩ trái và thất trái khi có luồng thông trái-sang-phải lớn gây quá tải thể tích cho các buồng tim trái.<sup>\[1]</sup>
 {% endhint %}
 
 {% hint style="info" icon="diagram-sankey" %}
 <mark style="color:blue;">**Dòng chảy màu Doppler**</mark>
 
-
+**Dòng chảy ngược đặc trưng:** Doppler màu được dùng để bổ trợ cho hình ảnh 2D, cho thấy <mark style="color:red;">dòng màu ngược chiều</mark> từ động mạch chủ vào động mạch phổi.
 {% endhint %}
 
 </details>
@@ -158,8 +158,6 @@ Chẩn đoán còn ống động mạch thường dựa trên các <mark style="
 
 
 
-[^1]: Tiếng thổi có thể chỉ xuất hiện ở thì tâm thu do chênh áp giữa động mạch chủ và động mạch phổi chưa rõ rệt trong thì tâm trương
+[^1]: 24 giờ sau sinh áp lực động mạch phổi giảm còn bằng ½ áp lực động mạch chủ, 4 - 8 tuần sau sinh giảm còn bằng ¼ áp lực động mạch chủ, nên trẻ < 2 tháng tuổi không đánh giá có cao áp phổi hay không.
 
-[^2]: 24 giờ sau sinh áp lực động mạch phổi giảm còn bằng ½ áp lực động mạch chủ, 4 - 8 tuần sau sinh giảm còn bằng ¼ áp lực động mạch chủ, nên trẻ < 2 tháng tuổi không đánh giá có cao áp phổi hay không.
-
-[^3]: Huyết áp tâm thu cao, huyết áp tâm trương thấp
+[^2]: Huyết áp tâm thu cao, huyết áp tâm trương thấp
