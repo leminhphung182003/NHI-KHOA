@@ -122,9 +122,35 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 
 </details>
 
+## <mark style="color:red;">Diagnosis</mark>
+
+Chẩn đoán còn ống động mạch thường dựa trên các <mark style="color:cyan;">**đặc điểm lâm sàng điển hình**</mark> và thường được <mark style="color:green;">**xác nhận bằng siêu âm tim**</mark> (echocardiography).
+
+**X-quang ngực** (chest radiograph) và **điện tâm đồ** (electrocardiogram) có thể hữu ích nhưng có độ nhạy và độ đặc hiệu <mark style="color:orange;">**`thấp hơn`**</mark> siêu âm tim.
+
+**Thông tim** (cardiac catheterization) và **chụp mạch** (angiography) thường chỉ cần thiết khi cân nhắc <mark style="color:yellow;">**điều trị can thiệp qua da**</mark> hoặc trong bối cảnh **bệnh tim bẩm sinh phức tạp hơn**.
+
+<details>
+
+<summary><img src="../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:red;"><strong>SIÊU ÂM TIM</strong></mark></summary>
+
+Đánh giá siêu âm tim đầy đủ đối với còn ống động mạch bao gồm <mark style="color:$danger;">**`xác nhận giải phẫu`**</mark> bằng hình ảnh hai chiều và <mark style="color:$danger;">**`đánh giá huyết động học`**</mark> bằng siêu âm Doppler tim, bao gồm mức độ luồng thông và áp lực động mạch phổi.
+
+{% hint style="info" icon="transducer" %}
+<mark style="color:blue;">**Siêu âm 2D (Đánh giá giải phẫu)**</mark>
+
+**Xác định trực tiếp:** Siêu âm 2D giúp xác định <mark style="color:red;">trực tiếp</mark> sự hiện diện của <mark style="color:red;">**ống động mạch**</mark>, cung cấp thông tin về đường kính, chiều dài và hình dạng của ống.
+
+**Đánh giá gián tiếp:** Siêu âm 2D cho thấy tình trạng giãn nhĩ trái và thất trái khi có luồng thông trái-sang-phải lớn gây quá tải thể tích cho các buồng tim trái.
+{% endhint %}
+
+{% hint style="info" icon="diagram-sankey" %}
+<mark style="color:blue;">**Dòng chảy màu Doppler**</mark>
 
 
+{% endhint %}
 
+</details>
 
 [\[1\]: Doyle T, Kavanaugh-McHugh A. Clinical manifestations and diagnosis of patent ductus arteriosus in term infants, children, and adults. UpToDate. 2022. ](../tai-lieu.md#patent-ductus-arteriosus-in-preterm-infants-pathophysiology-clinical-manifestations-and-diagnosis)
 
