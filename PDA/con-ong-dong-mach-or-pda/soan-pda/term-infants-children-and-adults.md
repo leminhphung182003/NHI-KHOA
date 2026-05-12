@@ -26,7 +26,9 @@ layout:
 
 Ở trẻ sơ sinh đủ tháng, sự đóng chức năng của ống động mạch thường xảy ra trong vòng 48 giờ sau sinh.<sup>\[2]</sup>
 
-Tình trạng mạch máu này <mark style="color:red;">**không đóng**</mark>**&#x20;**<mark style="color:red;">**`sau ngày thứ 3 sau sinh`**</mark> được gọi là còn ống động mạch (patent ductus arteriosus - PDA) và được xem là bất thường.<sup>\[2]</sup>
+**Ở trẻ đủ tháng bình thường**, DA đóng ở hơn `90%` trường hợp trong vòng <mark style="color:red;">**48 giờ**</mark> và ở `100%` trường hợp trong vòng <mark style="color:red;">**96 giờ**</mark> sau sinh.<sup>\[3]</sup>
+
+Tình trạng mạch máu này <mark style="color:red;">**không đóng**</mark>**&#x20;**<mark style="color:red;">**`sau ngày thứ 3`**</mark> **sau sinh** được gọi là còn ống động mạch (patent ductus arteriosus - PDA) và được xem là bất thường.<sup>\[2]</sup>
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,6 +42,22 @@ Còn ống động mạch gặp <mark style="background-color:violet;">**`ưu th
 Tỷ lệ còn ống động mạch cũng cao hơn ở trẻ sinh tại vùng cao so với trẻ sinh ở mực nước biển, và ở trẻ mắc rubella bẩm sinh. Một trong những <mark style="color:red;">**yếu tố nguy cơ quan trọng nhất**</mark> của <mark style="color:$primary;">còn ống động mạch là</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">**sinh non**</mark><sup>\[1]</sup>.Còn ống động mạch (PDA) thường gặp hơn ở trẻ sinh non, đặc biệt ở trẻ có tuổi thai <28 tuần, với <mark style="color:red;">**`tỷ lệ mắc trên 50%`**</mark><sup>\[2]</sup>
 
 ## <mark style="color:red;">**Physiology**</mark>
+
+{% columns %}
+{% column width="58.333333333333336%" %}
+Trong quá trình phát triển tim mạch bình thường, các <mark style="color:purple;">**cung động mạch chủ phôi**</mark><mark style="color:purple;">**&#x20;**</mark><mark style="color:purple;">**`thứ sáu`**</mark> trải qua những biến đổi hình thái tạo thành cầu nối giữa động mạch phổi chính và động mạch chủ xuống phía xa động mạch dưới đòn trái<sup>\[3]</sup>\
+&#x20;\-   **Phần gần** của các cung phôi thứ sáu tạo thành <mark style="color:$warning;">các nhánh động mạch phổi</mark>, trong khi \
+&#x20;\-   **Phần xa** của cung thứ sáu bên trái <mark style="color:red;">tạo thành ống động mạch (DA).</mark>
+
+\--> Sự biến đổi này xảy ra trong **`8 tuần đầu`** của quá trình phát triển thai nhi ở người.
+{% endcolumn %}
+
+{% column width="41.666666666666664%" %}
+<figure><img src="../../.gitbook/assets/image (11).png" alt="" width="188"><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
