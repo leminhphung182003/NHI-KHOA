@@ -48,3 +48,9 @@ layout:
 
 {% file src="../.gitbook/assets/PDA Nadas' Pediatric Cardiology.pdf" %}
 
+### <mark style="color:red;">**`Journal of the American Heart Association`**</mark>
+
+{% embed url="https://www.ahajournals.org/doi/10.1161/JAHA.122.025784" %}
+
+{% embed url="https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.114.013810" %}
+
