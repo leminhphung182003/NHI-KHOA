@@ -44,3 +44,7 @@ layout:
 
 {% file src="../.gitbook/assets/Clinical Manifestations And Diagnosis Of Patent Ductus Arteriosus In Term Infants Children And Adults.pdf" %}
 
+### <mark style="color:red;">**`Nadas' Pediatric Cardiology, 3rd Edition`**</mark>
+
+{% file src="../.gitbook/assets/PDA Nadas' Pediatric Cardiology.pdf" %}
+

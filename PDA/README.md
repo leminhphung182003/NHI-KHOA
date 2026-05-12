@@ -28,7 +28,7 @@ layout:
 
 {% stepper %}
 {% step %}
-### **LÝ THUYẾT**
+### <mark style="color:red;">**LÝ THUYẾT**</mark>
 
 {% tabs %}
 {% tab title="Y6 YDS" %}
@@ -50,7 +50,7 @@ layout:
 {% endstep %}
 
 {% step %}
-### CBL
+### <mark style="color:red;">CBL</mark>
 
 {% tabs %}
 {% tab title="CBL thầy Tưởng" %}
