@@ -27,3 +27,8 @@ layout:
 # SLIDE
 
 {% file src="../.gitbook/assets/PDA CÔ PHÚC.pdf" %}
+
+{% file src="../.gitbook/assets/PDA BS Minh ĐHQG.pdf" %}
+
+{% file src="../.gitbook/assets/PDA chị Tiên ĐHQG.pdf" %}
+

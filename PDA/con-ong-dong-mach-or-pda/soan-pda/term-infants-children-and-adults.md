@@ -125,6 +125,16 @@ Thường gặp chủ yếu ở trẻ <mark style="color:$success;">**sinh non**
 
 <mark style="color:blue;">--></mark> Bất kể phân tử tín hiệu khởi đầu là gì, các con đường này phối hợp làm <mark style="color:blue;">**giảm nồng độ canxi nội bào**</mark><mark style="color:blue;">, từ đó</mark> <mark style="color:$danger;">ngăn cản sự co cơ của tế bào cơ trơn ống động mạch</mark> trong thời kỳ bào thai.
 
+#### <mark style="color:pink;">**Cơ chế điều hòa sự đóng bình thường của ống động mạch "sau sinh"**</mark>
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Nhiều yếu tố phân tử, cấu trúc, huyết động học cũng như các yếu tố môi trường/nhiễm trùng từ mẹ đã được mô tả là góp phần vào sự đóng ống động mạch sau sinh.<sup>\[3]</sup> \
+&#x20;   **-  Các yếu tố phân tử:** Sự đóng DA sau sinh được thúc đẩy bởi sự giảm mạnh các yếu tố gây giãn và sự gia tăng nồng độ canxi nội bào (<mark style="color:red;">**Hình 3B**</mark>). Sự khởi đầu hô hấp làm tăng đáng kể **PaO2** phế nang, yếu tố đóng vai trò điều hòa chính của sự đóng DA. <mark style="background-color:yellow;">Các bằng chứng mới nổi cho thấy</mark> <mark style="color:red;background-color:yellow;">**sự chưa trưởng thành**</mark> <mark style="color:purple;background-color:yellow;">của các</mark> <mark style="color:purple;background-color:yellow;"></mark><mark style="color:purple;background-color:yellow;">**cơ chế cảm nhận oxy sinh hóa**</mark> <mark style="background-color:yellow;">góp phần duy trì tình trạng</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**còn mở của ống động mạch ở**</mark>**&#x20;**<mark style="color:$success;background-color:yellow;">**trẻ sinh non**</mark>\
+&#xNAN;**&#x20;   -   Các yếu tố cấu trúc:** So với trẻ đủ tháng, các cấu trúc như gối nội mạc kém phát triển hoặc không hiện diện, số lượng ít hơn các tế bào cơ trơn co bóp trưởng thành và thiếu hệ mạch nuôi thành mạch (vasa vasorum) là những thành phần cấu trúc góp phần duy trì tình trạng còn mở của ống động mạch ở trẻ sinh non.\
+&#x20;   **-   Các yếu tố huyết động học:** giả thuyết rằng chức năng tiểu cầu có thể là yếu tố điều hòa tình trạng PDA ở trẻ sinh non.\
+&#x20;   **-   Các yếu tố môi trường/nhiễm trùng từ mẹ:&#x20;**<mark style="color:red;">**Hội chứng rubella bẩm sinh**</mark> có thể góp phần gây tình trạng còn mở ống động mạch sau sinh. Virus Zika đang nổi lên như một nguyên nhân nhiễm trùng tiềm tàng khác gây PDA.
+
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 
