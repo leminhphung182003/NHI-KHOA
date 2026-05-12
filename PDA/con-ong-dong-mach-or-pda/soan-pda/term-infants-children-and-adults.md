@@ -41,7 +41,7 @@ Tỷ lệ mắc — tỷ lệ được báo cáo của còn ống động mạch
 Còn ống động mạch gặp <mark style="background-color:violet;">**`ưu thế ở nữ`**</mark>, với  <mark style="background-color:yellow;">**`tỷ lệ nữ : nam là 2:1`**</mark> trong hầu hết các loạt ca ở trẻ đủ tháng. <sup>\[1]</sup>\
 Tỷ lệ còn ống động mạch cũng cao hơn ở trẻ sinh tại vùng cao so với trẻ sinh ở mực nước biển, và ở trẻ mắc rubella bẩm sinh. Một trong những <mark style="color:red;">**yếu tố nguy cơ quan trọng nhất**</mark> của <mark style="color:$primary;">còn ống động mạch là</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">**sinh non**</mark><sup>\[1]</sup>.Còn ống động mạch (PDA) thường gặp hơn ở trẻ sinh non, đặc biệt ở trẻ có tuổi thai <28 tuần, với <mark style="color:red;">**`tỷ lệ mắc trên 50%`**</mark><sup>\[2]</sup>
 
-## <mark style="color:red;">**Physiology**</mark>
+## <mark style="color:orange;">**Embryology, Anatomy, and Physiology**</mark>
 
 {% columns %}
 {% column width="58.333333333333336%" %}
@@ -54,6 +54,64 @@ Trong quá trình phát triển tim mạch bình thường, các <mark style="co
 
 {% column width="41.666666666666664%" %}
 <figure><img src="../../.gitbook/assets/image (11).png" alt="" width="188"><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column width="58.333333333333336%" %}
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+<p align="center"><mark style="color:green;"><strong>Các biến thể hình dạng của PDA</strong></mark></p>
+{% endcolumn %}
+
+{% column width="41.666666666666664%" %}
+<details>
+
+<summary><mark style="color:purple;"><strong>Type a (“hình nón”)</strong></mark> </summary>
+
+Ống động mạch có <mark style="color:red;">**bóng động mạch chủ rõ**</mark> và **chỗ hẹp gần đầu động mạch phổi (PA)**
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Type b (“cửa sổ”)</strong></mark></summary>
+
+Ống động mạch ngắn với <mark style="color:red;">**chỗ hẹp ở đầu động mạch chủ**</mark> (đầu động mạch phổi rộng)
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Type c (“hình ống”)</strong></mark></summary>
+
+Ống động mạch <mark style="color:red;">**không có chỗ hẹp**</mark> ở đầu động mạch chủ hoặc đầu động mạch phổi
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Type d (“hình túi”)</strong></mark></summary>
+
+Ống động mạch có đầu động mạch chủ và đầu động mạch phổi hẹp nhưng <mark style="color:red;">**phần giữa giãn rộng**</mark>;
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Type e (“kéo dài”)</strong></mark></summary>
+
+**Ống động mạch hẹp** với <mark style="color:red;">**đầu động mạch phổi bị co hẹp**</mark>
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Type f (“kiểu thai nhi”)</strong></mark></summary>
+
+Thường gặp chủ yếu ở trẻ <mark style="color:$success;">**sinh non**</mark>, có đặc điểm **dài, rộng và ngoằn ngoèo.**
+
+</details>
 {% endcolumn %}
 {% endcolumns %}
 
