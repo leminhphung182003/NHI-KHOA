@@ -49,6 +49,15 @@ Tỷ lệ còn ống động mạch cũng cao hơn ở trẻ sinh tại vùng ca
 
 Biểu hiện lâm sàng của còn ống động mạch được quyết định bởi <mark style="color:red;">**mức độ shunt trái sang phải**</mark>, phụ thuộc vào kích thước và chiều dài của ống động mạch, cũng như sự chênh lệch giữa sức cản mạch phổi và sức cản mạch hệ thống.<sup>\[1]</sup>
 
+{% hint style="danger" icon="wave-pulse" %}
+#### <mark style="color:red;">**Mạch**</mark>
+
+<mark style="color:red;">Mạch đập động mạch ngoại vi</mark> cung cấp những dấu hiệu đầu tiên quan trọng gợi ý sự hiện diện và sinh lý bệnh của còn ống động mạch (PDA).&#x20;
+
+* **Bình thường**, xung động động mạch dưới ngón tay người khám mạnh nhất trong thì tâm thu, nhưng động mạch vẫn còn căng có thể sờ thấy trong suốt thì tâm trương.
+* Sự hiện diện của một **PDA lớn** cho phép luồng thông trái-phải liên tục sẽ làm tuần hoàn hệ thống trở nên <mark style="color:cyan;">**“rỗng hơn” trong thì tâm trương**</mark>, từ đó tạo cảm giác mạch nảy mạnh; luồng thông trái-phải càng lớn thì mạch động mạch ngoại vi càng nổi rõ.
+{% endhint %}
+
 <mark style="color:orange;">**Hậu quả huyết động**</mark> của còn ống động mạch có thể được phân loại theo mức độ shunt trái sang phải dựa trên <mark style="color:$primary;">**tỷ số lưu lượng máu phổi so với lưu lượng máu hệ thống (Qp:Qs).**</mark><sup>\[1]</sup>
 
 ```apl
@@ -92,6 +101,8 @@ Thường có tiếng thổi, và đặc điểm của tiếng thổi <mark styl
 * [x] <mark style="color:cyan;">**Sau giai đoạn sơ sinh:**</mark>
 
 [**Áp lực động mạch phổi giảm xuống**](#user-content-fn-1)[^1] sau giai đoạn sơ sinh. Kết quả là áp lực động mạch chủ cao hơn áp lực động mạch phổi trong <mark style="color:red;">**cả thì tâm thu lẫn tâm trương**</mark>, tạo ra dòng chảy liên tục qua ống động mạch và gây nên tiếng thổi liên tục điển hình ((tiếng thổi Gibson hay tiếng thổi máy). Tiếng thổi có <mark style="color:red;">**`cường độ độ 3/6 hoặc thấp hơn`**</mark> và **`nghe rõ nhất ở vùng dưới xương đòn trái`**. Cường độ tiếng thổi mạnh nhất ngay trước và sau tiếng tim thứ hai (S2) và không bị ảnh hưởng bởi tư thế.
+
+<mark style="color:red;background-color:yellow;">**\*Note video nghe tim:**</mark> [https://www.youtube.com/watch?v=I\_y9lk7qsyM](https://www.youtube.com/watch?v=I_y9lk7qsyM)
 {% endhint %}
 
 </details>
