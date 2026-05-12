@@ -28,14 +28,22 @@ layout:
 
 Tình trạng mạch máu này <mark style="color:red;">**không đóng**</mark>**&#x20;**<mark style="color:red;">**`sau ngày thứ 3 sau sinh`**</mark> được gọi là còn ống động mạch (patent ductus arteriosus - PDA) và được xem là bất thường.<sup>\[2]</sup>
 
-
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">**Epidemiology**</mark>
+
+Còn ống động mạch (PDA) là dị tật tim bẩm sinh thường gặp **`đứng hàng thứ ba`** sau thông liên thất và thông liên nhĩ.<sup>\[2]</sup>
 
 Tỷ lệ mắc — tỷ lệ được báo cáo của còn ống động mạch đơn độc ở <mark style="color:$danger;">trẻ đủ tháng</mark> dao động từ <mark style="background-color:$warning;">3 đến 8 trường hợp trên 10.000 trẻ sinh sống</mark>.<sup>\[1]</sup>
 
 Còn ống động mạch gặp <mark style="background-color:violet;">**`ưu thế ở nữ`**</mark>, với  <mark style="background-color:yellow;">**`tỷ lệ nữ : nam là 2:1`**</mark> trong hầu hết các loạt ca ở trẻ đủ tháng. <sup>\[1]</sup>\
-Tỷ lệ còn ống động mạch cũng cao hơn ở trẻ sinh tại vùng cao so với trẻ sinh ở mực nước biển, và ở trẻ mắc rubella bẩm sinh. Một trong những <mark style="color:red;">**yếu tố nguy cơ quan trọng nhất**</mark> của <mark style="color:$primary;">còn ống động mạch là</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">**sinh non**</mark><mark style="color:$primary;">.</mark><sup>\[1]</sup>
+Tỷ lệ còn ống động mạch cũng cao hơn ở trẻ sinh tại vùng cao so với trẻ sinh ở mực nước biển, và ở trẻ mắc rubella bẩm sinh. Một trong những <mark style="color:red;">**yếu tố nguy cơ quan trọng nhất**</mark> của <mark style="color:$primary;">còn ống động mạch là</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">**sinh non**</mark><sup>\[1]</sup>.Còn ống động mạch (PDA) thường gặp hơn ở trẻ sinh non, đặc biệt ở trẻ có tuổi thai <28 tuần, với <mark style="color:red;">**`tỷ lệ mắc trên 50%`**</mark><sup>\[2]</sup>
+
+## <mark style="color:red;">**Physiology**</mark>
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## <mark style="color:orange;">Clinical Manifestations</mark>
 
